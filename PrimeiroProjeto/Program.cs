@@ -8,6 +8,8 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
+            Console.WriteLine("JULIO C T FORTUNA - DESENVOLDOR C#");
+            Console.WriteLine();
             //programa ESTOQUE
 
             DateTime d1 = DateTime.ParseExact("2000-08-15", "yyyy-MM-dd", CultureInfo.InvariantCulture);
